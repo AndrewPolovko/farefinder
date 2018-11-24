@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/belavia_1</color>
+    <color name="colorPrimaryDark">@color/belavia_1_dark</color>
+    <color name="colorAccent">@color/belavia_accent_1</color>
+
+
+    <color name="belavia_1">#4D5FAB</color>
+    <color name="belavia_1_dark">#3a4881</color>
+    <color name="belavia_2">#6270D9</color>
+    <color name="belavia_3">#4196E7</color>
+    <color name="belavia_4">#A7C5ED</color>
+
+
+    <color name="belavia_accent_1">#77CA27</color>
+    <color name="belavia_accent_dark">#5a991d</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+    <color name="whiteopacitiy">#afffffff</color>
+
+    <color name="economy_promotion">#d77f9b</color>
+    <color name="economy_restriction">#7770ca</color>
+    <color name="economy_semi_flexible">#77c3d7</color>
+    <color name="economy_flexible">#d7a480</color>
+    <color name="business">#bdc2cc</color>
+
+</resources>
